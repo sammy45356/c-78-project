@@ -1,0 +1,31 @@
+body
+{
+    background-color: deepskyblue;
+    color:darkgoldenrod;
+    border: solid;
+    
+
+}
+#button {
+    background-color: royalblue;
+    font-style: italic;
+    font-family: fantasy;
+    color: black;
+    border-radius: 5px;
+    cursor:pointer;
+    box-shadow: 0 0 10px  rgba(0, 0, 0, 0.25);
+    
+}
+.button:hover{
+    background-color: darkblue;
+    box-shadow: 0 0 10px  rgba(0, 0, 0, 0.25);
+} 
+#MFB
+{
+    border-color: black;
+    color: black;
+    border:2px solid black;
+    padding:5px;
+    width: 300px;
+    height: 50px;
+}
